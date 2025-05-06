@@ -1,5 +1,9 @@
 ## Hi there 👋
 🌱 I’m currently learning Cloud Engineering following the guide course from https://learntocloud.guide/
+
+no socials.
+
+Changes made in VSCode and pushed back to GitHub
 <!--
 **ZLMXN/ZLMXN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
